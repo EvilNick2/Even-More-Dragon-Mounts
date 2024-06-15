@@ -10,7 +10,7 @@
   "habitats": [
     {
       "type": "dragonmounts:nearby_blocks",
-      "block_tag": "moredragons:zombie_drake"
+      "block_tag": "evenmoredragons:zombie_drake"
     }
   ],
   "primary_color": "5a8135",
