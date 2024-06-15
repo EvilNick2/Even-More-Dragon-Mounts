@@ -1,0 +1,19 @@
+{
+  "taming_items": "minecraft:prismarine_shard",
+  "breeding_items": "minecraft:prismarine_shard",
+  "abilities": [],
+  "immunities": [
+    "minecraft:cactus",
+    "minecraft:sweet_berry_bush",
+    "minecraft:dragon_breath"
+  ],
+  "habitats": [
+    {
+      "type": "dragonmounts:nearby_blocks",
+      "block_tag": "evenmoredragons:sylphid_drake"
+    }
+  ],
+  "primary_color": "0036FF",
+  "reproduction_limit": "config:forest",
+  "secondary_color": "6686ff"
+}

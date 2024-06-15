@@ -1,0 +1,19 @@
+{
+  "taming_items": "minecraft:book",
+  "breeding_items": "minecraft:book",
+  "abilities": [],
+  "immunities": [
+    "minecraft:cactus",
+    "minecraft:sweet_berry_bush",
+    "minecraft:dragon_breath"
+  ],
+  "habitats": [
+    {
+      "type": "dragonmounts:nearby_blocks",
+      "block_tag": "evenmoredragons:enchant_drake"
+    }
+  ],
+  "primary_color": "674ea7",
+  "reproduction_limit": "config:forest",
+  "secondary_color": "20124d"
+}

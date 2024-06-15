@@ -1,0 +1,19 @@
+{
+  "taming_items": "minecraft:soul_lantern",
+  "breeding_items": "minecraft:soul_lantern",
+  "abilities": [],
+  "immunities": [
+    "minecraft:cactus",
+    "minecraft:sweet_berry_bush",
+    "minecraft:dragon_breath"
+  ],
+  "habitats": [
+    {
+      "type": "dragonmounts:nearby_blocks",
+      "block_tag": "evenmoredragons:wither_drake"
+    }
+  ],
+  "primary_color": "0e1111",
+  "reproduction_limit": "config:forest",
+  "secondary_color": "6686ff"
+}

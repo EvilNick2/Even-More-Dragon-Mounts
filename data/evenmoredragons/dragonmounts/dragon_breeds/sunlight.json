@@ -1,0 +1,19 @@
+{
+  "taming_items": "minecraft:gold_ingot",
+  "breeding_items": "minecraft:gold_ingot",
+  "abilities": [],
+  "immunities": [
+    "minecraft:cactus",
+    "minecraft:sweet_berry_bush",
+    "minecraft:dragon_breath"
+  ],
+  "habitats": [
+    {
+      "type": "dragonmounts:nearby_blocks",
+      "block_tag": "evenmoredragons:sunlight_drake"
+    }
+  ],
+  "primary_color": "E74600",
+  "reproduction_limit": "config:forest",
+  "secondary_color": "FFFFFF"
+}

@@ -1,0 +1,19 @@
+{
+  "taming_items": "minecraft:amethyst_shard",
+  "breeding_items": "minecraft:amethyst_shard",
+  "abilities": [],
+  "immunities": [
+    "minecraft:cactus",
+    "minecraft:sweet_berry_bush",
+    "minecraft:dragon_breath"
+  ],
+  "habitats": [
+    {
+      "type": "dragonmounts:nearby_blocks",
+      "block_tag": "evenmoredragons:aurora_drake"
+    }
+  ],
+  "primary_color": "9067B6",
+  "reproduction_limit": "config:forest",
+  "secondary_color": "0e0a12"
+}

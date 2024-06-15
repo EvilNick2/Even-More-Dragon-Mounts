@@ -1,0 +1,19 @@
+{
+  "taming_items": "minecraft:rotten_flesh",
+  "breeding_items": "minecraft:rotten_flesh",
+  "abilities": [],
+  "immunities": [
+    "minecraft:cactus",
+    "minecraft:sweet_berry_bush",
+    "minecraft:dragon_breath"
+  ],
+  "habitats": [
+    {
+      "type": "dragonmounts:nearby_blocks",
+      "block_tag": "moredragons:zombie_drake"
+    }
+  ],
+  "primary_color": "5a8135",
+  "reproduction_limit": "config:forest",
+  "secondary_color": "ffff32"
+}

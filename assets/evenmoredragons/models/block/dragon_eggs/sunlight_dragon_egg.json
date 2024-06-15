@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/dragon_egg",
+  "textures": {
+    "all": "evenmoredragons:block/sunlight_dragon_egg"
+  }
+}

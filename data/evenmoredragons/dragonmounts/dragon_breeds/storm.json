@@ -1,0 +1,19 @@
+{
+  "taming_items": "minecraft:copper_ingot",
+  "breeding_items": "minecraft:copper_ingot",
+  "abilities": [],
+  "immunities": [
+    "minecraft:cactus",
+    "minecraft:sweet_berry_bush",
+    "minecraft:dragon_breath"
+  ],
+  "habitats": [
+    {
+      "type": "dragonmounts:nearby_blocks",
+      "block_tag": "evenmoredragons:storm_drake"
+    }
+  ],
+  "primary_color": "414A4C",
+  "reproduction_limit": "config:forest",
+  "secondary_color": "0036FF"
+}

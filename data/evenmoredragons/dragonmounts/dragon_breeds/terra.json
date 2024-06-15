@@ -1,0 +1,19 @@
+{
+  "taming_items": "minecraft:brick",
+  "breeding_items": "minecraft:brick",
+  "abilities": [],
+  "immunities": [
+    "minecraft:cactus",
+    "minecraft:sweet_berry_bush",
+    "minecraft:dragon_breath"
+  ],
+  "habitats": [
+    {
+      "type": "dragonmounts:nearby_blocks",
+      "block_tag": "evenmoredragons:terra_drake"
+    }
+  ],
+  "primary_color": "744700",
+  "reproduction_limit": "config:forest",
+  "secondary_color": "ffff32"
+}
