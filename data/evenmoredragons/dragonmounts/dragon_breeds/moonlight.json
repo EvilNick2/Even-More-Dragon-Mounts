@@ -1,0 +1,19 @@
+{
+  "taming_items": "minecraft:shulker_shell",
+  "breeding_items": "minecraft:shulker_shell",
+  "abilities": [],
+  "immunities": [
+    "minecraft:cactus",
+    "minecraft:sweet_berry_bush",
+    "minecraft:dragon_breath"
+  ],
+  "habitats": [
+    {
+      "type": "dragonmounts:nearby_blocks",
+      "block_tag": "evenmoredragons:moonlight_drake"
+    }
+  ],
+  "primary_color": "06091c",
+  "reproduction_limit": "config:forest",
+  "secondary_color": "ffffff"
+}
